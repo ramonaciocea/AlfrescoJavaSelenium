@@ -1,0 +1,8 @@
+Used Selenium Webdriver and Java for automation with IntellIJ IDEA
+
+How to run: Right Click on Tests/AlfrescoTest -> Run Alfresco Test :)
+
+***Prerequisites*** - Following jars to be added in project for selenium:
+- selenium-java-3.141.59 : - https://www.selenium.dev/downloads/ for Java
+
+- https://chromedriver.storage.googleapis.com/index.html?path=85.0.4183.87/ -> download chromedriver.exe and change its path accordingly in WebdriverFactory class
